@@ -8,6 +8,6 @@ var newHeader = document.createElement("h1")
 
 newHeader.id = "victory"
 
-newHeader.innerHTML ="Shuaib Shaban is the champion"
+newHeader.innerHTML ="trevor is the champion"
 
 document.body.prepend(newHeader)
